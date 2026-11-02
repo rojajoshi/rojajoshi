@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,50:FFE3EC,100:FFE8A3&height=200&section=header&text=hi,%20i'm%20ro%20✿&fontSize=50&fontColor=5C3D2E&fontAlignY=38&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,50:FFE3EC,100:FFE8A3&height=200&section=header&text=hi,%20i'm%20roja%20✿&fontSize=50&fontColor=5C3D2E&fontAlignY=38&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E86A92&center=true&vCenter=true&width=520&lines=Aspiring+Data+Analyst;Turning+messy+data+into+decisions;Forecasting+%2B+time+series+nerd;Open+to+grad+data+roles+in+Melbourne" />
 
