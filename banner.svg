@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="d" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#F3D9C6"/></pattern>
+<linearGradient id="a" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#FFC1D9" stop-opacity=".55"/><stop offset="1" stop-color="#FFC1D9" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="24" fill="#FFF8EC"/>
+<rect width="1200" height="300" rx="24" fill="url(#d)"/>
+<circle cx="70" cy="40" r="120" fill="#FFE3EC"/>
+<circle cx="1150" cy="270" r="140" fill="#FFE8A3" opacity=".8"/>
+<circle cx="1080" cy="40" r="60" fill="#FFC1D9" opacity=".5"/>
+<path d="M0 250 C80 240 120 205 200 215 S330 255 400 230 S520 170 600 190 S730 240 800 205 S930 140 1000 160 S1130 120 1200 110 V300 H0Z" fill="url(#a)"/>
+<path d="M0 250 C80 240 120 205 200 215 S330 255 400 230 S520 170 600 190 S730 240 800 205 S930 140 1000 160 S1130 120 1200 110" fill="none" stroke="#E86A92" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="1600" stroke-dashoffset="1600"><animate attributeName="stroke-dashoffset" from="1600" to="0" dur="2.5s" fill="freeze"/></path>
+<path d="M1000 160 S1130 120 1200 110" fill="none" stroke="#E86A92" stroke-width="3" stroke-dasharray="6 8" opacity=".6"/>
+<g fill="#fff" stroke="#E86A92" stroke-width="3"><circle cx="200" cy="215" r="6"/><circle cx="400" cy="230" r="6"/><circle cx="600" cy="190" r="6"/><circle cx="800" cy="205" r="6"/><circle cx="1000" cy="160" r="6"/></g>
+<g fill="#F5B83D"><path d="M160 70l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/><path d="M1010 85l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/><path d="M930 230l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/></g>
+<g fill="#E86A92" opacity=".8"><path d="M250 60l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><path d="M880 55l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/></g>
+<text x="600" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="700" fill="#5C3D2E">hi, i'm roja <tspan fill="#E86A92">✿</tspan></text>
+<text x="600" y="172" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#8A6A58" letter-spacing="2">data scientist in the making</text>
+</svg>
