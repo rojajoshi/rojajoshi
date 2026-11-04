@@ -53,7 +53,7 @@ Rules engine and data quality pipeline that flags issues in GST transaction data
 #### 🏦 Bank Churn Prediction
 Gradient Boosting model to predict which customers leave, plus a Power BI dashboard.
 
-`Python` `scikit-learn` `Power BI`
+`Python` `scikit-learn` 
 
 <a href="https://github.com/rojajoshi/bank-customer-churn-analysis"><img src="https://img.shields.io/badge/view%20repo-FFC1D9?style=flat-square&logo=github&logoColor=5C3D2E" /></a>
 
@@ -65,7 +65,7 @@ Gradient Boosting model to predict which customers leave, plus a Power BI dashbo
 #### 🏠 Housing Affordability (AU)
 Digging into how affordability has shifted across Australian cities.
 
-`Python` `R`
+`Python` 
 
 <a href="https://github.com/rojajoshi/australian-housing-affordability"><img src="https://img.shields.io/badge/view%20repo-FFC1D9?style=flat-square&logo=github&logoColor=5C3D2E" /></a>
 
