@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1D9?style=for-the-badge&logo=linkedin&logoColor=5C3D2E)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1D9?style=for-the-badge&logo=linkedin&logoColor=5C3D2E)](https://www.linkedin.com/in/roja-joshi-927354267/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFE8A3?style=for-the-badge&logo=hugo&logoColor=5C3D2E)](https://rojajoshi.github.io)
-[![Email](https://img.shields.io/badge/Email-FFF3E0?style=for-the-badge&logo=gmail&logoColor=5C3D2E)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-FFF3E0?style=for-the-badge&logo=gmail&logoColor=5C3D2E)](mailto:rojajoshi37@gmail.com)
 
 </div>
 
